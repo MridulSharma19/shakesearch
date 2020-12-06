@@ -1,3 +1,10 @@
+# Just write go run main.go in terminal to start the app.
+# I have created the front end and have implemented case insensitive search. 
+# I was planning to store results based on previous and next newline character,
+# but this was my first time working with suffix array so I'd need more time to figure out how it can be implemented
+# I'll make another repository for the frontend code
+
+
 # ShakeSearch
 
 Welcome to the Pulley Shakesearch Take-home Challenge! In this repository,
